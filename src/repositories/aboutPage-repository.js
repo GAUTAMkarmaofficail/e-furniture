@@ -11,7 +11,7 @@ export default {
           "title",
           "thumbnail",
           "description1",
-          "description1",
+          "description2",
           "subtitle",
           "points",
         ],
